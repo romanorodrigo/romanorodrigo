@@ -1,23 +1,3 @@
-<style>
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    padding: 20px;
-}
-
-h1 {
-    color: #333;
-}
-
-p {
-    color: #666;
-}
-
-img {
-    max-width: 100%;
-}
-</style>
-
 # My Data Science Portfolio
 
 Welcome to my data science portfolio! Here, you'll find a showcase of my skills and projects.
