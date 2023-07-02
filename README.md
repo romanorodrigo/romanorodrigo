@@ -2,7 +2,7 @@
 
 Welcome to my data science portfolio! Here, you'll find a showcase of my skills and projects.
 
-## Project 1: Analysis of XYZ Dataset
+## Project 1: Finance Calculators
 ...
 
 
